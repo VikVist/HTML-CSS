@@ -1,1 +1,1 @@
-Project where I have followed on the HTML and CSS course and have cloned the YouTube website
+Cloned YouTube project website which I have created using HTML and CSS.
